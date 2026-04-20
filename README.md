@@ -94,6 +94,24 @@ python linear_regression.py
 - **MAE**: ~0.53 ($53,000)
 - **RMSE**: ~0.73 ($73,000)
 
+## 📸 Visualizations
+
+### Exploratory Data Analysis
+![EDA Analysis](eda_analysis.png)
+*Comprehensive EDA including distribution plots, correlation heatmap, and feature relationships*
+
+### Model Evaluation
+![Model Evaluation](model_evaluation.png)
+*Actual vs Predicted values, residual plots, and performance metrics visualization*
+
+### Feature Importance
+![Feature Importance](feature_importance.png)
+*Coefficient analysis showing the impact of each feature on house prices*
+
+### Assumptions Check
+![Assumptions Check](assumptions_check.png)
+*Statistical validation of linear regression assumptions including residual normality and homoscedasticity*
+
 ### Key Insights
 1. **Most Important Features**:
    - Median Income (strongest positive correlation)
